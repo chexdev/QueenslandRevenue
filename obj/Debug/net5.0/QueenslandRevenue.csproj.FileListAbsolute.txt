@@ -1,0 +1,15 @@
+/Users/xchen/Projects/QueenslandRevenue/QueenslandRevenue/bin/Debug/net5.0/QueenslandRevenue.deps.json
+/Users/xchen/Projects/QueenslandRevenue/QueenslandRevenue/bin/Debug/net5.0/QueenslandRevenue.runtimeconfig.json
+/Users/xchen/Projects/QueenslandRevenue/QueenslandRevenue/bin/Debug/net5.0/QueenslandRevenue.runtimeconfig.dev.json
+/Users/xchen/Projects/QueenslandRevenue/QueenslandRevenue/bin/Debug/net5.0/QueenslandRevenue.dll
+/Users/xchen/Projects/QueenslandRevenue/QueenslandRevenue/bin/Debug/net5.0/ref/QueenslandRevenue.dll
+/Users/xchen/Projects/QueenslandRevenue/QueenslandRevenue/bin/Debug/net5.0/QueenslandRevenue.pdb
+/Users/xchen/Projects/QueenslandRevenue/QueenslandRevenue/obj/Debug/net5.0/QueenslandRevenue.csproj.AssemblyReference.cache
+/Users/xchen/Projects/QueenslandRevenue/QueenslandRevenue/obj/Debug/net5.0/QueenslandRevenue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xchen/Projects/QueenslandRevenue/QueenslandRevenue/obj/Debug/net5.0/QueenslandRevenue.AssemblyInfoInputs.cache
+/Users/xchen/Projects/QueenslandRevenue/QueenslandRevenue/obj/Debug/net5.0/QueenslandRevenue.AssemblyInfo.cs
+/Users/xchen/Projects/QueenslandRevenue/QueenslandRevenue/obj/Debug/net5.0/QueenslandRevenue.csproj.CoreCompileInputs.cache
+/Users/xchen/Projects/QueenslandRevenue/QueenslandRevenue/obj/Debug/net5.0/QueenslandRevenue.dll
+/Users/xchen/Projects/QueenslandRevenue/QueenslandRevenue/obj/Debug/net5.0/ref/QueenslandRevenue.dll
+/Users/xchen/Projects/QueenslandRevenue/QueenslandRevenue/obj/Debug/net5.0/QueenslandRevenue.pdb
+/Users/xchen/Projects/QueenslandRevenue/QueenslandRevenue/obj/Debug/net5.0/QueenslandRevenue.genruntimeconfig.cache
